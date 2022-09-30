@@ -8,3 +8,5 @@ To find out how to make a repo folder, visit this link: https://www.alpharithms.
 3: It is not required, but commenting your project code is encouraged to make your thought process clear to everyone.
 
 I hope you go far from the knowledge this repo will give to you!
+If you happen to be learning java and not python or want to learn java after, check out my friend Sameer's github profile!
+He has a cool repo for people wishing to learn java and become a developer! Feel free to contribute to that as well!
