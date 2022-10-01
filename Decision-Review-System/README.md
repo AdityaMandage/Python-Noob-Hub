@@ -95,6 +95,9 @@ to run the project in your system.
 Now your system and editor are fully ready to run this project.
 So, now run this project and your canvas will open with this interface.
 
+![drs-1](https://user-images.githubusercontent.com/102028645/193404294-d8f740cf-7d3a-4b66-ba66-df064026c37b.jpg)
+
+
 
 # Running Tests
 
@@ -103,6 +106,15 @@ your choice, and will get the required output.
 
 
 ## Screenshots
+
+![drs-2](https://user-images.githubusercontent.com/102028645/193404309-4863029e-86bb-4861-bced-a5f05bdffb65.jpg)
+![drs-3](https://user-images.githubusercontent.com/102028645/193404315-66589adc-b801-4cf4-bbfa-b9fd0454b46b.jpg)
+![drs-4](https://user-images.githubusercontent.com/102028645/193404318-e407b3e5-ccd2-4c7e-874c-74af30084b27.jpg)
+![drs-5](https://user-images.githubusercontent.com/102028645/193404328-b77c0fa7-1a2e-4fb7-8ced-a6be66afeb8d.jpg)
+![drs-6](https://user-images.githubusercontent.com/102028645/193404334-5ed009bd-8ffc-4551-9b06-ff1710e2bdd2.jpg)
+![drs-7](https://user-images.githubusercontent.com/102028645/193404341-0748393d-5163-4220-bdd1-59298db98f9b.jpg)
+![drs-8](https://user-images.githubusercontent.com/102028645/193404349-718a3f88-2d62-45dc-9efe-814a132349b8.jpg)
+
 
 
 
